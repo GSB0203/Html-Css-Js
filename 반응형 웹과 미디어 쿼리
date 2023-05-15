@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>미디어 커리 사용하기</title>
+<style>
+body{
+    background:url('https://wallpaperaccess.com/full/1357354.jpg')no-repeat fixed;
+    background-size:cover;
+}
+@media screen and (max-width: 1024px) {
+    body{
+        background: url('https://wallpaperaccess.com/full/1357358.jpg')no-repeat fixed;
+        background-size: cover;
+    }    
+}
+
+@media screen and (max-width: 768px) {
+    body{
+        background: url('https://wallpaperaccess.com/full/277929.jpg')no-repeat fixed;
+        background-size: cover;
+    }    
+}
+
+
+@media screen and (max-width: 320px) {
+    body{
+        background: url('https://wallpaperaccess.com/full/1357357.jpg')no-repeat fixed;
+        background-size: cover;
+    }    
+}
+</style>
+</head>
+<body></body>
+</html>

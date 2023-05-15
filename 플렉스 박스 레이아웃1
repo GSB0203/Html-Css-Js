@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ko">
+	<head>
+		<style>
+			body {
+				display : flex;
+				background-image : url(./images/bg0.jpg);
+				height : 800px;
+				justify-content : center;
+				align-items : center;
+			}
+			button {
+				margin : 10px;
+			}
+		</style>
+		</head>
+    <meta charset="UTF-8">
+    <body>
+     <!--이부분에 답안 작성--> 
+     <button>주축 정렬</button>
+			<button>보조축 정렬</button>
+    </body>
+</html>
